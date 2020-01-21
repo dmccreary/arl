@@ -1,3 +1,5 @@
-# Donkey Car Configuration File
+# AI Racing League Tools
 
-This repo contains sample DonkeyCar configuration files.
+Sample tools to make it easier to use the DonkeyCar for non-technical folk.
+
+This repo contains sample UNIX Shell menus and other DonkeyCar configuration files.
